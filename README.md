@@ -1,6 +1,6 @@
 # 🌱 BioPod
 
-> Smart AI + IoT system for real-time environmental monitoring, analysis, and visualization.
+> Smart IoT system for real-time environmental monitoring, analysis, and visualization.
 
 ---
 
