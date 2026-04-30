@@ -42,7 +42,6 @@
 | ![BioPod Hardware Unit](./images/hardware-setup.jpeg) | ![Live Dashboard](./images/dashboard.png) |
 | **🔧 BioPod Hardware Unit** — ESP32 + DHT22 + MQ135 assembled | **📊 Live Dashboard** — Real-time metrics and health score |
 
-> 📌 *Replace placeholders with actual project photos — hardware setup, dashboard screenshots, sensor wiring, competition demo day*
 
 </div>
 
